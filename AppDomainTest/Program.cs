@@ -56,7 +56,7 @@ namespace AppDomainTest {
 			Console.WriteLine("Now showing that Lib3 is deleted.");
 			runner.Recompose();
 			runner.DoSomething();
-			
+
 			Console.WriteLine("\nNext drop the new Lib3 in the Plugins folder.");
 			Console.WriteLine("Press any key when ready...");
 			Console.ReadKey();

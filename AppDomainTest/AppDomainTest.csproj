@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="AppDomainTest.snk" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AppDomainTestInterfaces\AppDomainTestInterfaces.csproj">
